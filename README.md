@@ -41,7 +41,7 @@
 ### Week 5 : Machine Translation
 - **Seq2Seq Basics**
 - **GRU** Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation (EMNLP 2014) [Link](https://www.aclweb.org/anthology/D14-1179)
-- **CNN** Convolutional Sequence to Sequence Learning [Link](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
+- **CNN** Convolutional Sequence to Sequence Learning (ICML 2017) [Link](http://proceedings.mlr.press/v70/gehring17a/gehring17a.pdf)
 - **Transformer** Attention Is All You Need (NIPS 2017) [Link](https://arxiv.org/pdf/1706.03762.pdf)
 - **BERT** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (EMNLP 2018) [Link](https://arxiv.org/pdf/1810.04805.pdf)
 - **Unsupervised MT** Word Translation Without Parallel Data (ICLR 2018) [Link](https://arxiv.org/pdf/1710.04087.pdf)
