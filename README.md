@@ -1,5 +1,5 @@
 # Deep NLP 2 (2019.3-5)
-기계학습 기반 자연어 처리(NLP) 방법론을 다룹니다. 널리 사용되는 Word2Vec (2012)부터, 2019년도 연구 동향까지 다룹니다. 자세한 일정, 인원, 장소 및 내용은 아래와 같습니다.
+기계학습 기반 자연어 처리(NLP) 방법론 스터디입니다. 널리 사용되는 Word2Vec (2012)부터, 2019년도 연구 동향까지 다룹니다. 자세한 일정, 인원, 장소 및 내용은 아래와 같습니다.
 
 - 일정: 2019.3.9~ (토) / 매주 토요일 오후 2시-5시 (주 1회, 3시간)
 - 인원: 10명 내외 (현재 6명 참여)
@@ -47,7 +47,7 @@
 - **Unsupervised MT** Word Translation Without Parallel Data (ICLR 2018) [Link](https://arxiv.org/pdf/1710.04087.pdf)
 
 ### Week 6 : Conversation Modeling & Response Generation
-- **HRED** Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models [Link](AAAI 2016)
+- **HRED** Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models (AAAI 2016) [Link](https://arxiv.org/pdf/1507.04808.pdf)
 - **Variational AutoEncoder (VAE) Basics** Auto-Encoding Variational Bayes [Link(tutorial)](https://arxiv.org/pdf/1606.05908.pdf)
 - **VHRED** A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues (AAAI 2017) [Link](http://www.cs.toronto.edu/~lcharlin/papers/vhred_aaai17.pdf)
 - **VHCR** A Hierarchical Latent Structure for Variational Conversation Modeling (NAACL 2018) [Link](https://arxiv.org/pdf/1804.03424.pdf)
@@ -58,10 +58,10 @@
 - **Memory Networks** Memory Networks (ICLR 2015) [Link](https://arxiv.org/pdf/1410.3916.pdf)
 - **End-To-End Memory Networks** End-To-End Memory Networks (NIPS 2015) [Link](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
 - **SQUAD 2.0** Know What You Don’t Know: Unanswerable Questions for SQuAD (ACL 2018) [Link](http://www.aclweb.org/anthology/P18-2124)
-- **Pointer Networks** Get To The Point: Summarization with Pointer-Generator Networks (ACL 2017) [Link](https://aclanthology.info/papers/P17-1099/p17-1099)
+- **Pointer Networks** Get To The Point: Summarization with Pointer-Generator Networks (ACL 2017) [Link](http://aclweb.org/anthology/P17-1099)
 
 ### Week 8 : Recent (2019) Trends in NLP / Other topics
-- **Hyperbolic Embeddings** Poincaré GloVe: Hyperbolic Word Embeddings (ICLR 2019, accepted) [Link](https://arxiv.org/pdf/1810.06546.pdf)
+- **Hyperbolic Embeddings** Poincaré GloVe: Hyperbolic Word Embeddings (ICLR 2019, accepted) [Link](https://openreview.net/pdf?id=Ske5r3AqK7)
 - **SOTA Language Models: GPT-2** Language Models are Unsupervised Multitask Learners [Link](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 - **Computational Psychotherapy** Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health (TACL 2016) [Link](http://www.aclweb.org/anthology/Q16-1033)
 - **Computational Psychotherapy 2** Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues [Link](https://naacl2019.org/)
