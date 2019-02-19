@@ -1,9 +1,10 @@
 # Deep NLP 2 (2019.3-5)
-기계학습 기반 자연어 처리(NLP) 방법론 스터디입니다. 널리 사용되는 Word2Vec (2012)부터, 2019년도 연구 동향까지 다룹니다. 자세한 일정, 인원, 장소 및 내용은 아래와 같습니다.
+기계학습 기반 자연어 처리(Natural Language Processing) 방법론 스터디입니다. 널리 사용되는 Word2Vec (2012)부터, 2019년도 연구 동향까지 다룹니다. 자세한 일정, 인원, 장소 및 내용은 아래와 같습니다.
 
 - 일정: 2019.3.9~ (토) / 매주 토요일 오후 2시-5시 (주 1회, 3시간)
 - 인원: 10명 내외 (현재 6명 참여)
 - 장소 : 스테이지나인 삼성점 [네이버 지도](https://map.naver.com/local/siteview.nhn?code=1042227506)
+- 참여가능한 배경지식 : 기계학습 기초 [모두를 위한 딥러닝: 기본](https://hunkim.github.io/ml/)
 
 ## Part 1 : Natural Language Processing Basics (Week 1-4)
 
